@@ -1,0 +1,51 @@
+
+Supper Simple Hotdogs
+1
+3.3333
+This is one of the default recipies, meant primarily to demonstrait the program rather than be an actualy good recipe. It is just a microwaved hot dog, I have extended the word count to test my formating code. And now for nonsence. This is a summary the summary is borring but here it is, I like pizza. Why? idk I just need to fill a word count. a government of hippocrits.
+stove,microwave
+hotdog,bun
+Place hotdog in microwave.
+Put the hot dog in a bun.
+Now cook it.
+Place in microwave for precicly one muinute and thirty two seconds.
+Then eat it.
+
+titl 2
+2
+3.333333
+This is one of the default recipies.
+equi,oven,toaster
+ingr,hotdog,ingredient
+take a hotdog
+throw it in the oven
+let it boil
+take out after 10 muinutes
+toast to perfection.
+
+titl 3
+3
+3.3333333
+summ 3
+equi 3,equi 4,equi 5
+ingr 3,ingr 4,hotdog
+This is one of the default recipies, keep in mind this program is meant to show you the most accsesable recipies first and formost.
+If this was atached to a large server it would need a rating syestem. However it is not.
+When using this program it would be recomended to only fill it with recipies that you concider 7/10 and above.
+If you smell burnt toast you are having a stroke
+Or you are burning your toast. 50/50.
+
+Sausage and Egg Sandwich
+4
+3.33
+This one is meant to represent a very difficult recipe, but in actuality it isnt that hard. I just needed one to represent dificulty. Forget cheese and put down the ketchup! Our secret addition of DIY pickled peppers contributes a sweet, spicy element to the rich bite of egg and sausage — you'll never reach for condiments again.
+large cast-iron skillet or pan
+4 tsp olive oil,2 thin slices red onion,12 oz. sweet Italian sausage,2 oz. Cheddar cheese,4 large eggs,4 English muffins,6 sweet piquante pepper
+Heat 2 tsp oil in large cast-iron skillet on medium.
+Add onion and cook 3 minutes. With wet hands shape sausage into four 1/4-inch-thick patties.
+Add to skillet with onion and increase heat to medium-high. Flip onion and cook until just tender then 2 to 3 minutes more.
+Cook patties until browned 2 to 3 minutes then flip.
+Separate onion slices into rings and arrange on top of patties
+Then top with Cheddar and continue cooking until sausage is cooked through 2 to 3 minutes more.
+Meanwhile heat remaining 2 teaspoons olive oil in large nonstick skillet on medium and cook eggs to desired doneness 4 to 5 minutes for runny yolks.
+Top bottom halves of muffins with sausage then eggs pepper slices and parsley.
